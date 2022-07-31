@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Donuts",
+    "price": 3.99,
+    "imgUrl": "/imgs/donuts.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hamburger",
+    "price": 6.99,
+    "imgUrl": "/imgs/hamburger.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizza",
+    "price": 3.99,
+    "imgUrl": "/imgs/pizza.jpg"
+  },
+  {
+    "id": 4,
+    "name": "French Fries",
+    "price": 2.99,
+    "imgUrl": "/imgs/fries.jpg"
+  }
+]
