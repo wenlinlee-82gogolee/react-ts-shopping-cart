@@ -3,24 +3,36 @@
     "id": 1,
     "name": "Donuts",
     "price": 3.99,
-    "imgUrl": "/imgs/donuts.jpg"
+    "imgUrl": "/imgs/donuts-min.jpg"
   },
   {
     "id": 2,
     "name": "Hamburger",
     "price": 6.99,
-    "imgUrl": "/imgs/hamburger.jpg"
+    "imgUrl": "/imgs/hamburger-min.jpg"
   },
   {
     "id": 3,
     "name": "Pizza",
-    "price": 3.99,
-    "imgUrl": "/imgs/pizza.jpg"
+    "price": 12.99,
+    "imgUrl": "/imgs/pizza-min.jpg"
   },
   {
     "id": 4,
     "name": "French Fries",
-    "price": 2.99,
-    "imgUrl": "/imgs/fries.jpg"
+    "price": 3.99,
+    "imgUrl": "/imgs/fries-min.jpg"
+  },
+  {
+    "id": 5,
+    "name": "coffee",
+    "price": 3.99,
+    "imgUrl": "/imgs/coffee-min.jpg"
+  },
+  {
+    "id": 6,
+    "name": "cookies",
+    "price": 0.99,
+    "imgUrl": "/imgs/cookies-min.jpg"
   }
 ]
